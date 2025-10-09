@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
+
+h1 {
+    color: #444;
+    text-align: center;
+}
+
+/* Frappe Gantt Customizations */
+.gantt .bar-label {
+    font-weight: bold;
+}
+.gantt .bar-progress {
+    fill: #a3a3ff;
+}
